@@ -1,2 +1,2 @@
 # python-basics
-python practice programs
+This repository contains python practice programs for learning and improving coding skills. 
